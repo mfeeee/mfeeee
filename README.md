@@ -9,7 +9,7 @@
 - 📑 Voltei a atualizar meu [Portfolio](https://mfeeee.github.io/my_portfolio/) constantemente  
   
 
-- 📊 Interessada em Ciência de Dados e Inteligência Artificial  
+- 📊 Interessada em Desenvolvimento Fullstack e Cybersegurança  
   
 
 - ❓ Não hesite em me ajudar ou dar sugestões de melhorias nos meus projetos caso queira!  
