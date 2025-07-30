@@ -1,6 +1,6 @@
 # 💫 Hey, I'm Mafe:
 <img src="https://gifdb.com/images/high/minecraft-explosion-creeper-4a4nd9in95grdygt.gif" align="center" style="width: 20%" />
-🔭 Software Engineer sharing my singular view<br>🤝 I’m looking for help with cibersecurity and backend development<br>🌱 I’m currently learning PHP and Linux<br>💬 Ask me about music and I'll surely have a lot to say<br>⚡ Fun fact: noob gamer obsessed with FPS
+🔭 Software Engineer sharing my singular view<br>🤝 Student of System Analysis and Develpment at Federal Institute of Piaui (IFPI)<br>🌱 I’m currently learning PHP and Linux<br>💬 Ask me about music and I'll surely have a lot to say<br>⚡ Fun fact: noob gamer obsessed with FPS
 
 
 ## 🌐 Socials:
