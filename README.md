@@ -13,12 +13,14 @@
 ![WakaTime](https://wakatime.com/share/@7276c842-e8d3-4a5b-b620-df1923d60816/1a5d7a7f-ae91-4233-9735-65c2563c50a2.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mfeeee&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mfeeee&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfeeee&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mfeeee&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
+
+![My Streaks](https://nirzak-streak-stats.vercel.app/?user=mfeeee&theme=blue_navy&hide_border=false)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfeeee&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mfeeee&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=mfeeee&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
