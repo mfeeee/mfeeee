@@ -13,11 +13,11 @@
 ![WakaTime](https://wakatime.com/share/@7276c842-e8d3-4a5b-b620-df1923d60816/1a5d7a7f-ae91-4233-9735-65c2563c50a2.svg)
 
 # 📊 GitHub Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mfeeee&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=mfeeee&theme=blue_navy&show_icons=true)
 
-![My Streaks](https://nirzak-streak-stats.vercel.app/?user=mfeeee&theme=blue_navy&hide_border=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfeeee&theme=blue_navy)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfeeee&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfeeee&theme=blue_navy&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=mfeeee&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
